@@ -62,9 +62,36 @@
 /* *************Shoes start********* */
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
 #shoes h1{
     text-transform: capitalize;
 }
 /* *************Shoes End********* */
+
+/* ************Backpack start*********** */
+#backpack h1{
+    text-transform: capitalize;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+/* ************Backpack end*********** */
+
+/* ************subscribe start*********** */
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+
+/* ************Subscribe end*********** */
+
+/* ************Footer part start*********** */
+footer{
+    text-align: center;
+}
+/* ************Footer part end*********** */
